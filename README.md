@@ -1,6 +1,9 @@
 # rush-b
 Chức năng chính là con bot này đó là gửi tin nhắn tới thông báo thành viên mới, thành viên rời đi và lấy những tin tức liên quan đến công nghệ và đời sống....
 ## Setup
+Cài đặt các thư viện cần thiết, xem thêm cách cài `pip` tại [đây](https://docs.python.org/3/installing/index.html):
+> pip3 -r requirement.txt
+<br>
 Truy cập https://discordapp.com/developers/applications để tạo Applications mới với tên bất kì nào cũng được, nó sẽ được hiển thị khi App của bạn kết nối OAuth2 đến discord của người khác
 <br>
 Chọn Add Bot để tạo con bot mới:
