@@ -3,8 +3,8 @@ from discord.ext import commands, tasks
 import requests, json
 client = commands.Bot(command_prefix = '$');
 
-idChannelNews = 123
-TOKEN = '' // TOKEN BOT
+idChannelNews = 123 #ID Channel 
+TOKEN = '' #TOKEN BOT
 
 
     
