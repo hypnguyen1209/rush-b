@@ -1,13 +1,13 @@
 {
-  "name": "tera",
+  "name": "rush-b",
   "version": "1.0.0",
-  "description": "",
+  "description": "Let this Discord bot bring you the most useful information😘😂 🤣",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "hypnguyen",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
